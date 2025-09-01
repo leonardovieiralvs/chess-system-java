@@ -8,9 +8,6 @@ import chess.ChessPosition;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import static application.UI.ANSI_RESET;
-import static application.UI.ANSI_YELLOW;
-
 public class Program {
     public static void main(String[] args) {
 
